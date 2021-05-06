@@ -1,2 +1,2 @@
-# Hungry_peope
+# Hungry_people
 Допольнительное 2
